@@ -1,31 +1,32 @@
-📊 Mobile Phone Usage Behavior & Awareness (2022)
+# 📊 Government School Teachers Distribution in Malaysia (2017-2018)
 
-📌 Project Overview
-This project explores mobile phone addiction behavior and awareness among 12 respondents in Malaysia. It analyzes phone usage habits based on gender, phone brand, app usage, battery consumption, and screen unlock frequency using Tableau.
+## 📌 Project Overview
+This project visualizes the distribution of government school teachers in Malaysia using **Tableau**. It analyzes teacher demographics across states, school types, and genders.
 
-📂 Project Structure
-data/ → Collected mobile phone usage data over 15 days
-tableau/ → Tableau workbook files (.twbx) for visualizations
-docs/ → Project report & documentation
-🚀 Technologies Used
-Tableau (Data Visualization)
-Excel/CSV (Data Preparation)
-📊 Key Insights
-Top 3 Most Popular Phone Brands Among Respondents:
+## 📂 Project Structure
+- **data/** → Dataset used for visualization
+- **tableau/** → Tableau workbook files (.twbx)
+- **docs/** → Project report & documentation
 
-Vivo (33.33%)
-Samsung & iPhone (16.67% each)
-Huawei, Oppo, Redmi, Xiaomi (8.33% each)
-Gender-Based Usage Trends:
+## 🚀 Technologies Used
+- **Tableau** (Data Visualization)
+- **Excel/CSV** (Data Preparation)
 
-Female respondents outnumber males.
-Females spend more time on their phones daily compared to males.
-App Usage & Battery Consumption:
+## 📊 Key Insights
+- **Top 3 States with Highest Teachers**:  
+  1. Selangor: 122,141 teachers  
+  2. Johor: 97,465 teachers  
+  3. Sabah: 81,634 teachers  
 
-Social media is the most used app category.
-Higher battery consumption on weekends, indicating heavier phone usage.
-Nur Adibah recorded the highest screen time & unlock frequency.
-📊 Dashboards
-Main Dashboard - Overview of mobile phone usage trends.
-Gender & Phone Brand Dashboard - Breakdown of usage by gender and phone brand.
-App Usage & Battery Consumption Dashboard - Visualizing most used apps and battery drain trends.
+- **Gender Distribution**:  
+  - Female teachers outnumber male teachers in every state.  
+  - The highest number of female teachers is in **Selangor**.  
+
+- **School Type Analysis**:  
+  - Primary school teachers outnumber secondary school teachers.  
+  - Most secondary school teachers are in **academic schools**, while vocational colleges have fewer teachers.  
+
+## 📊 Dashboards
+1. **Main Dashboard** - Overview of teacher distribution across states.
+2. **Teacher Distribution Description** - Detailed breakdown by school type and district offices.
+3. **Gender Distribution Dashboard** - Comparison of male and female teachers.
